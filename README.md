@@ -10,7 +10,7 @@ NPM Packages:
 react-router-dom
 gh-pages
 Web deploy:
-https://gael-src.github.io/portfolio/
+https://elis-11.github.io/portfolio/
 
 Structure
 portfolio
