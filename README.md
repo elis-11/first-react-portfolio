@@ -1,7 +1,9 @@
-Elisa portfolio
+#Elisa's portfolio <br>
+
 Portfolio Example
 
 How to install:
+
 $ git clone "repo"
 $ cd "repo"
 $ npm install
