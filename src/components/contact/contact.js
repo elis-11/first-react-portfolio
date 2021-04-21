@@ -1,6 +1,6 @@
-
 import "./contact.css";
 
+// eslint-disable-next-line no-unused-vars
 function Contact() {
   return (
     <div className="contact">
@@ -9,4 +9,4 @@ function Contact() {
   );
 }
 
-export default import("react").Contact;
+export default Contact;
