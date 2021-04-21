@@ -7,7 +7,7 @@ function Header() {
       <ul>
         <li>
           <Link className="nav--link" to="/">
-            <h1>Gael</h1>
+            Elisa
           </Link>
         </li>
         <li>
