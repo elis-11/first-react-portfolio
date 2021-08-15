@@ -1,5 +1,6 @@
 # Getting Started with Create React App
 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -68,3 +69,42 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+------------------------------------------------------------
+
+Elisa portfolio
+Portfolio Example
+
+How to install:
+$ git clone "repo"
+$ cd "repo"
+$ npm install
+$ npm start
+
+
+NPM Packages:
+react-router-dom
+gh-pages
+Web deploy:
+https://github.com/elis-11/portfolio/
+
+Structure
+portfolio
+ │
+ │─── public
+ │─── src
+ │     │
+ │     │─── assets
+ │     │     
+ │     │─── components
+ │     │     │─── header
+ │     │     │─── main
+ │     │     └─── footer
+ │     │     
+ │     │─── app.js
+ │     │─── app.css
+ │     └─── reset.css
+ │ 
+ │─── .gitignore
+ │─── package.json
+ └─── README.md
+ 
