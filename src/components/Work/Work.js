@@ -1,5 +1,5 @@
 
-import "./work.css";
+import "./Work.css";
 
 function Work() {
   return (
