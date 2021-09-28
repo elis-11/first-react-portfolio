@@ -1,4 +1,5 @@
 .header {
+    background-color: rgb(245, 210, 210);
     border: solid 1px red;
   }
   
@@ -14,5 +15,5 @@
   }
   
   .nav--link:hover {
-    color: green;
+    color: rgb(25, 194, 171);
   }
