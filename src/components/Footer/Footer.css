@@ -1,4 +1,6 @@
-
 .footer {
-    border: solid 1px red;
-  }
+  border: solid 1px rgb(199, 121, 192);
+  background-color: lavender;
+  height: 100px;
+  color: rgb(202, 30, 188);
+}
