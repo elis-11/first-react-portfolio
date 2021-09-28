@@ -102,12 +102,12 @@ portfolio
  │     │─── assets
  │     │     
  │     │─── components
- │     │     │─── header
- │     │     │─── main
- │     │     └─── footer
+ │     │     │─── Header
+ │     │     │─── Main
+ │     │     └─── Footer
  │     │     
- │     │─── app.js
- │     │─── app.css
+ │     │─── App.js
+ │     │─── App.css
  │     └─── reset.css
  │ 
  │─── .gitignore
