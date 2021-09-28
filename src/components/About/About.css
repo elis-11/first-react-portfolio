@@ -1,5 +1,5 @@
 .about {
-    border: solid 1px rgb(139, 130, 130);
-    min-height: 60vh;
-  }
-  
+  min-height: 60vh;
+  background-color: rgb(87, 95, 95);
+  border: solid 1px red;
+}
