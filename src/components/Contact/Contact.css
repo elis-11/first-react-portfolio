@@ -1,5 +1,7 @@
 .contact {
-    border: solid 1px red;
-    min-height: 60vh;
+    min-height: 60vh;    border: solid 1px rgb(153, 140, 140);
+    background-color: aqua;
+    border: solid 1px rgb(153, 140, 140);
+
   }
   
